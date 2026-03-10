@@ -131,7 +131,5 @@ A partir del análisis se pueden obtener conclusiones como:
 
 Estos insights pueden utilizarse para **optimizar la estrategia comercial de Alura Store**.
 
----
 
-# 📁 Estructura del Proyecto
 
